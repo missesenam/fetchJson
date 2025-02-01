@@ -31,7 +31,7 @@ const App = () => {
   return (
     <div className="p-8 bg-gray-100 min-h-screen">
       <h1 className="text-4xl font-extrabold text-center text-gray-800 mb-10">
-        The Fetched Method
+        The useEffect
       </h1>
       {/* error and loading */}
       {error && (
